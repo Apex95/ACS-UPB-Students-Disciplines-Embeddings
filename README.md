@@ -54,7 +54,7 @@ The following clusters are easily visible and verifiable (naming by me):
 7. **Game Programming**: EGC (Elements of Computer Graphics), SPG (Systems of Graphical Processing); interestingly enough, APD (Parallel and Distributed Algorithms) is placed close to these but it's not "directly" related to them - could be the fact that all of them rely on working with larger C/C++ codebases?
 
 
-![Distribution of errors for the validation set](error_distribution.png)
+![Distribution of errors for the validation set](tsne.png)
 
 
 
